@@ -1,0 +1,22 @@
+[
+    {
+        "sadrzaj": "<i class='fa fa-facebook'></i>",
+        "putanja": "https://www.facebook.com/"
+    },
+    {
+        "sadrzaj": "<i class='fa fa-twitter'></i>",
+        "putanja": "https://www.twitter.com/"
+    },
+    {
+        "sadrzaj": "<i class='fa fa-google-plus'></i>",
+        "putanja": "https://www.google.com/"
+    },
+    {
+        "sadrzaj": "<i class='fa fa-pinterest'></i>",
+        "putanja": "https://www.pinterest.com/"
+    },
+    {
+        "sadrzaj": "<i class='fa fa-instagram'></i>",
+        "putanja": "https://www.instagram.com/"
+    }
+]

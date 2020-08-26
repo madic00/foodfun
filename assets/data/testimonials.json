@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Emy",
+        "content": "Gorgeous restaurant, incredible food. I ordered their Oven Roasted Pork Chop with Scallion Mashed Potatoes, Balsamic Roasted Red Onions, and Port Reduction Sauce. It was so lovely and tender, it literally fell off the bone.",
+        "img": {
+            "src": "assets/images/c1.png",
+            "alt": "Customer-1"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Carla",
+        "content": "Valet parking, great staff, neat grounds, and the location is tucked back inside TREES! It’s all very pretty. If you’re looking for a warm, cozy, yet fancy night out, give it a try. I think you’re gonna like it.FoodFun is an absolutely beautiful restaurant that I would highly recommend it for special occasions and events",
+        "img": {
+            "src": "assets/images/c2.png",
+            "alt": "Customer-2"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Thomas",
+        "content": "Amazing dinner tonight!  Our server was awesome, and so very friendly . The food was just simply amazing. Had the veal my wife had pasta, our guests ordered the double cut pork chop, and the beef and pulled pork meatloaf. Wow, what a great meal!",
+        "img": {
+            "src": "assets/images/c3.png",
+            "alt": "Customer-3"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Monica",
+        "content": "Amazing! Try the Pepper Potatoas, tender and plentiful. Freshly rolled gnocchi melts in your mouth. Decadence situated in a Tuscan-like atmosphere, sweetly backdropped with snow topped mountains. Going back again tonight",
+        "img": {
+            "src": "assets/images/c4.png",
+            "alt": "Customer-4"
+        }
+    }
+]

@@ -1,0 +1,572 @@
+[
+    {
+        "foodId": 1,
+        "name": "Mexican Eggrolls",
+        "price": 8.50,
+        "desc": "They are served with a creamy cilantro dipping sauce. ",
+        "img": {
+            "path": "assets/images/food1.jpg",
+            "desc": "Food 1 image"
+        },
+        "mealCat": {
+            "id": 1,
+            "name": "Breakfast"
+        },
+        "mealType": {
+            "id": 1,
+            "name": "Homemade"
+        },
+        "date": "2019-02-17"
+    },
+    {
+        "foodId": 2,
+        "name": "Chicken burger",
+        "price": 9,
+        "desc": "These chicken burgers are seasoned with Italian-style bread crumbs, onion, and garlic.",
+        "img": {
+            "path": "assets/images/food2.jpg",
+            "desc": "Food 2 image"
+        },
+        "mealCat": {
+            "id": 2,
+            "name": "Lunch"
+        },
+        "mealType": {
+            "id": 5,
+            "name": "Burgers"
+        },
+        "date": "2019-05-02"
+    },
+    {
+        "foodId": 3,
+        "name": "Topu Lasagne",
+        "price": 12.50,
+        "desc": "Lasagna is with Parmigiano-Reggiano, Béchamel sauce (white sauce), and ragù ",
+        "img": {
+            "path": "assets/images/food3.jpg",
+            "desc": "Food 3 image"
+        },
+        "mealCat": {
+            "id": 2,
+            "name": "Lunch"
+        },
+        "mealType": {
+            "id": 3,
+            "name": "Pasta"
+        },
+        "date": "2019-06-18"
+    },
+    {
+        "foodId": 4,
+        "name": "Pepper Potatoas",
+        "price": 11,
+        "desc": "Sautéed small potatoes with pepper, salt and spring onions-one of the most famous and popular Chinese side dish!",
+        "img": {
+            "path": "assets/images/food4.jpg",
+            "desc": "Food 4 image"
+        },
+        "mealCat": {
+            "id": 2,
+            "name": "Lunch"
+        },
+        "mealType": {
+            "id": 2,
+            "name": "Diet"
+        },
+        "date": "2018-02-17"
+    },
+    {
+        "foodId": 5,
+        "name": "Bean Salad",
+        "price": 7,
+        "desc": "A colorful, spicy, and refreshing bean and corn salad. In a large bowl, combine beans, bell peppers",
+        "img": {
+            "path": "assets/images/food5.jpg",
+            "desc": "Food 4 image"
+        },
+        "mealCat": {
+            "id": 1,
+            "name": "Breakfast"
+        },
+        "mealType": {
+            "id": 2,
+            "name": "Diet"
+        },
+        "date": "2000-05-02"
+    },
+    {
+        "foodId": 6,
+        "name": "Beatball Hoagie",
+        "price": 9.50,
+        "desc": "Hoagies are savory meatballs simmered in flavorful marinara sauce until tender, ",
+        "img": {
+            "path": "assets/images/food6.jpg",
+            "desc": "Food 6 image"
+        },
+        "mealCat": {
+            "id": 3,
+            "name": "Dinner"
+        },
+        "mealType": {
+            "id": 3,
+            "name": "Pasta"
+        },
+        "date": "2019-09-10"
+    },
+    {
+        "foodId": 7,
+        "name": "Neapolitan Pizza",
+        "price": 8.50,
+        "desc": "The dough is made from Tipo 00 wheat flour and the crust is thin, crunchy, and baked in a wood-fired oven.",
+        "img": {
+            "path": "assets/images/food7.jpg",
+            "desc": "Food 1 image"
+        },
+        "mealCat": {
+            "id": 3,
+            "name": "Dinner"
+        },
+        "mealType": {
+            "id": 4,
+            "name": "Pizza"
+        },
+        "date": "2019-02-17"
+    },
+    {
+        "foodId": 8,
+        "name": "Sicilian Pizza",
+        "price": 9,
+        "desc": "The pizza has a thin cracker-like crust, made without yeast, and is topped with Provel cheese, rather than mozzarella.",
+        "img": {
+            "path": "assets/images/food8.jpg",
+            "desc": "Food 2 image"
+        },
+        "mealCat": {
+            "id": 3,
+            "name": "Dinner"
+        },
+        "mealType": {
+            "id": 4,
+            "name": "Pizza"
+        },
+        "date": "2019-05-02"
+    },
+    {
+        "foodId": 9,
+        "name": "Vegan Pizza",
+        "price": 11.50,
+        "desc": "Classic toppings like vegan cheese, basil, or pepperoni, and adventurous pizzas like jalapeno popper.",
+        "img": {
+            "path": "assets/images/food9.jpg",
+            "desc": "Food 3 image"
+        },
+        "mealCat": {
+            "id": 1,
+            "name": "Breakfast"
+        },
+        "mealType": {
+            "id": 4,
+            "name": "Pizza"
+        },
+        "date": "2019-06-18"
+    },
+    {
+        "foodId": 10,
+        "name": "Capellini",
+        "price": 15.50,
+        "desc": "Very thin spaghetti, often coiled into nests. Capelli d'angelo are slightly thinner.",
+        "img": {
+            "path": "assets/images/food10.jpg",
+            "desc": "Food 4 image"
+        },
+        "mealCat": {
+            "id": 2,
+            "name": "Lunch"
+        },
+        "mealType": {
+            "id": 3,
+            "name": "Pasta"
+        },
+        "date": "2018-02-17"
+    },
+    {
+        "foodId": 11,
+        "name": "Bucatini",
+        "price": 8,
+        "desc": "Thick spaghetti-like pasta with a hole running through the center",
+        "img": {
+            "path": "assets/images/food11.jpg",
+            "desc": "Food 4 image"
+        },
+        "mealCat": {
+            "id": 1,
+            "name": "Breakfast"
+        },
+        "mealType": {
+            "id": 3,
+            "name": "Pasta"
+        },
+        "date": "2000-05-02"
+    },
+    {
+        "foodId": 12,
+        "name": "Gnocchi",
+        "price": 11,
+        "desc": "These soft, doughy dumplings are typically served with a savory white or red sauce.",
+        "img": {
+            "path": "assets/images/food12.jpg",
+            "desc": "Food 6 image"
+        },
+        "mealCat": {
+            "id": 3,
+            "name": "Dinner"
+        },
+        "mealType": {
+            "id": 3,
+            "name": "Pasta"
+        },
+        "date": "2019-09-10"
+    },
+    {
+        "foodId": 13,
+        "name": "Linguine topu",
+        "price": 16.50,
+        "desc": "Linguine is elliptical in shape and about 4 millimeters in width, which is wider than spaghetti, but not as wide as fettuccine.",
+        "img": {
+            "path": "assets/images/food13.jpg",
+            "desc": "Food 1 image"
+        },
+        "mealCat": {
+            "id": 1,
+            "name": "Breakfast"
+        },
+        "mealType": {
+            "id": 3,
+            "name": "Pasta"
+        },
+        "date": "2019-02-17"
+    },
+    {
+        "foodId": 14,
+        "name": "Bucatini",
+        "price": 6.70,
+        "desc": "Bucatini is a long pasta that’s similar to spaghetti, but thicker and with a hole running through the center.",
+        "img": {
+            "path": "assets/images/food14.jpg",
+            "desc": "Food 2 image"
+        },
+        "mealCat": {
+            "id": 2,
+            "name": "Lunch"
+        },
+        "mealType": {
+            "id": 4,
+            "name": "Pasta"
+        },
+        "date": "2019-05-02"
+    },
+    {
+        "foodId": 15,
+        "name": "Choy Salad",
+        "price": 12.50,
+        "desc": "This Baby Bok Choy Salad is full of crunchy almonds, ramen noodles, and a sweet Sesame Dressing",
+        "img": {
+            "path": "assets/images/food15.jpg",
+            "desc": "Food 3 image"
+        },
+        "mealCat": {
+            "id": 2,
+            "name": "Lunch"
+        },
+        "mealType": {
+            "id": 1,
+            "name": "Homemade"
+        },
+        "date": "2019-06-18"
+    },
+    {
+        "foodId": 16,
+        "name": "Bacon cheeseburger",
+        "price": 10.50,
+        "desc": "Hamburger with bacon and cheese is a bacon cheeseburger",
+        "img": {
+            "path": "assets/images/food16.jpg",
+            "desc": "Food 4 image"
+        },
+        "mealCat": {
+            "id": 2,
+            "name": "Lunch"
+        },
+        "mealType": {
+            "id": 5,
+            "name": "Burgers"
+        },
+        "date": "2018-02-17"
+    },
+    {
+        "foodId": 17,
+        "name": "Barbecue burger",
+        "price": 9.50,
+        "desc": "Prepared with ground beef, mixed with onions and barbecue sauce, and then grilled. Once the meat has been turned once, barbecue sauce is spread on top.    ",
+        "img": {
+            "path": "assets/images/food17.jpg",
+            "desc": "Food 4 image"
+        },
+        "mealCat": {
+            "id": 1,
+            "name": "Breakfast"
+        },
+        "mealType": {
+            "id": 5,
+            "name": "Burgers"
+        },
+        "date": "2000-05-02"
+    },
+    {
+        "foodId": 18,
+        "name": "Buffalo burger",
+        "price": 12,
+        "desc": "Prepared with meat from the American Bison, buffalo burgers have less cholesterol, less fat, and fewer calories",
+        "img": {
+            "path": "assets/images/food18.jpg",
+            "desc": "Food 6 image"
+        },
+        "mealCat": {
+            "id": 3,
+            "name": "Dinner"
+        },
+        "mealType": {
+            "id": 5,
+            "name": "Burgers"
+        },
+        "date": "2019-09-10"
+    },
+    {
+        "foodId": 19,
+        "name": "English Breakfast",
+        "price": 6.50,
+        "desc": "Is famous because of the plenty of different food served. This type of breakfast gives the guest the possibility to choose between sweet and savoury.",
+        "img": {
+            "path": "assets/images/food19.jpg",
+            "desc": "Food 1 image"
+        },
+        "mealCat": {
+            "id": 1,
+            "name": "Breakfast"
+        },
+        "mealType": {
+            "id": 1,
+            "name": "Homemade"
+        },
+        "date": "2019-02-17"
+    },
+    {
+        "foodId": 20,
+        "name": "Huevos rancheros",
+        "price": 8,
+        "desc": " are a typical breakfast served at Mexican farms, featuring corn tortillas and fried eggs topped with plenty of warmed salsa.",
+        "img": {
+            "path": "assets/images/food20.jpg",
+            "desc": "Food 2 image"
+        },
+        "mealCat": {
+            "id": 2,
+            "name": "Lunch"
+        },
+        "mealType": {
+            "id": 2,
+            "name": "Diet"
+        },
+        "date": "2019-05-02"
+    },
+    {
+        "foodId": 21,
+        "name": "Meat-egg sandwich",
+        "price": 7,
+        "desc": "This sandwich is a great to start your day. These savory breakfasts offer great nutrients, plus they're fast and easy. W",
+        "img": {
+            "path": "assets/images/food21.jpg",
+            "desc": "Food 3 image"
+        },
+        "mealCat": {
+            "id": 1,
+            "name": "Breakfast"
+        },
+        "mealType": {
+            "id": 1,
+            "name": "Homemade"
+        },
+        "date": "2019-06-18"
+    },
+    {
+        "foodId": 22,
+        "name": "Breakfast burito",
+        "price": 9,
+        "desc": "The sandwich is typically made with bacon, eggs, cheese and bread, which may be buttered and toasted.",
+        "img": {
+            "path": "assets/images/food22.jpg",
+            "desc": "Food 4 image"
+        },
+        "mealCat": {
+            "id": 1,
+            "name": "Breakfast"
+        },
+        "mealType": {
+            "id": 2,
+            "name": "Diet"
+        },
+        "date": "2018-02-17"
+    },
+    {
+        "foodId": 23,
+        "name": "BBQ steak",
+        "price": 14,
+        "desc": "This recipe will yield the most tasty and delicious steak that you can ever imagine.",
+        "img": {
+            "path": "assets/images/food23.jpg",
+            "desc": "Food 4 image"
+        },
+        "mealCat": {
+            "id": 2,
+            "name": "Lunch"
+        },
+        "mealType": {
+            "id": 1,
+            "name": "Homemade"
+        },
+        "date": "2000-05-02"
+    },
+    {
+        "foodId": 24,
+        "name": "Easy B&B",
+        "price": 11,
+        "desc": "This is an easy and tasty beef with broccoli version that I enjoy eating with warm rice. The beef is tender and flavorful.",
+        "img": {
+            "path": "assets/images/food24.jpg",
+            "desc": "Food 6 image"
+        },
+        "mealCat": {
+            "id": 3,
+            "name": "Dinner"
+        },
+        "mealType": {
+            "id": 1,
+            "name": "Homemade"
+        },
+        "date": "2019-09-10"
+    },
+    {
+        "foodId": 25,
+        "name": "Grilled Fish",
+        "price": 14.50,
+        "desc": "Savory halibut filets are marinated in olive oil, lemon juice, basil, and garlic then grilled to perfection. ",
+        "img": {
+            "path": "assets/images/food26.jpg",
+            "desc": "Food 1 image"
+        },
+        "mealCat": {
+            "id": 3,
+            "name": "Dinner"
+        },
+        "mealType": {
+            "id": 1,
+            "name": "Homemade"
+        },
+        "date": "2019-02-17"
+    },
+    {
+        "foodId": 26,
+        "name": "Eggs & Avocado",
+        "price": 9,
+        "desc": "This Simple Poached Egg and Avocado Toast recipe is so simple and so delicious! Real, healthy food",
+        "img": {
+            "path": "assets/images/food25.jpg",
+            "desc": "Food 2 image"
+        },
+        "mealCat": {
+            "id": 1,
+            "name": "Breakfast"
+        },
+        "mealType": {
+            "id": 2,
+            "name": "Diet"
+        },
+        "date": "2019-05-02"
+    },
+    {
+        "foodId": 27,
+        "name": "Chicken & Rice Bowl",
+        "price": 15,
+        "desc": "Sweet, garlicky chicken with homemade teriyaki sauce served with rice and souce",
+        "img": {
+            "path": "assets/images/food28.jpg",
+            "desc": "Food 3 image"
+        },
+        "mealCat": {
+            "id": 2,
+            "name": "Lunch"
+        },
+        "mealType": {
+            "id": 1,
+            "name": "Homemade"
+        },
+        "date": "2019-06-18"
+    },
+    {
+        "foodId": 28,
+        "name": "Lamb Bowls",
+        "price": 14.50,
+        "desc": "In a bowl, layer Turmeric Rice, then top with some of the spiced ground lamb, tomatoes, cucumbers, hummus and feta.",
+        "img": {
+            "path": "assets/images/food27.jpg",
+            "desc": "Food 4 image"
+        },
+        "mealCat": {
+            "id": 2,
+            "name": "Lunch"
+        },
+        "mealType": {
+            "id": 2,
+            "name": "Diet"
+        },
+        "date": "2018-02-17"
+    },
+    {
+        "foodId": 29,
+        "name": "Baked Salmon",
+        "price": 17.50,
+        "desc": "Easy Baked Salmon in Foil with Garlic, Lemon, and Herbs. One of the best simple. Turns out perfectly every time!",
+        "img": {
+            "path": "assets/images/food29.jpg",
+            "desc": "Food 4 image"
+        },
+        "mealCat": {
+            "id": 3,
+            "name": "Dinner"
+        },
+        "mealType": {
+            "id": 2,
+            "name": "Diet"
+        },
+        "date": "2000-05-02"
+    },
+    {
+        "foodId": 30,
+        "name": "Ceaser salad",
+        "price": 11,
+        "desc": "This is a green salad of romaine lettuce and croutons dressed with lemon juice, olive oil, egg, Worcestershire sauce, anchovies, garlic.",
+        "img": {
+            "path": "assets/images/food30.jpg",
+            "desc": "Food 6 image"
+        },
+        "mealCat": {
+            "id": 3,
+            "name": "Dinner"
+        },
+        "mealType": {
+            "id": 2,
+            "name": "Diet"
+        },
+        "date": "2019-09-10"
+    }
+]

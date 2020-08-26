@@ -1,0 +1,26 @@
+[
+    {
+        "naziv": "home",
+        "putanja": "index.html"
+    },
+    {
+        "naziv": "about",
+        "putanja": "about.html"
+    },
+    {
+        "naziv": "menu",
+        "putanja": "menu.html"
+    },
+    {
+        "naziv": "contact",
+        "putanja": "contact-us.html"
+    },
+    {
+        "naziv": "author",
+        "putanja": "autor.html"
+    },
+    {
+        "naziv": "docs",
+        "putanja": "docs.pdf"
+    }
+]

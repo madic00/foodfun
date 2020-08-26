@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Homemade"
+    },
+    {
+        "id": 2,
+        "name": "Diet"
+    },
+    {
+        "id": 3,
+        "name": "Pasta"
+    },
+    {
+        "id": 4,
+        "name": "Pizza"
+    },
+    {
+        "id": 5,
+        "name": "Burgers"
+    }
+]
